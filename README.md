@@ -91,7 +91,7 @@ Animated & responsive **React + Tailwind** portfolio with **Framer Motion** & **
 
 ### 📌 Dynamic Widgets  
 
-📌 **Currently working on & Learning**  
+📌 **Activity Graph (What I’m Working On)**  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshgore&theme=react-dark&hide_border=true" width="95%" alt="activity graph"/>
 </p>
@@ -99,6 +99,16 @@ Animated & responsive **React + Tailwind** portfolio with **Framer Motion** & **
 📖 **Random Dev Quote**  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+🎶 **Now Playing on Spotify**  
+<p align="center">
+  <img src="https://novatorem-dipanshgore.vercel.app/api/spotify" alt="Spotify Now Playing" width="400"/>
+</p>
+
+📅 **Contribution Calendar Heatmap**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshgore&custom_title=Dipansh's%20Commit%20Heatmap&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
