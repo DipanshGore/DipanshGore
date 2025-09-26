@@ -1,32 +1,114 @@
-<h1 align="center">Hi 👋, I'm Dipansh Gore</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipanshgore" alt="dipanshgore" /></a> </p>
-
-- 🔭 I’m currently working on [Agri-Zone](https://github.com/DipanshGore/agrizone)
-
-- 🌱 I’m currently learning **Backend,Databases**
-
-- 🤝 I’m looking for help with **MERN-Stack Project**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DipanshGore](https://github.com/DipanshGore)
-
-- 💬 Ask me about **React.js,Node.js,Express.js,MongoDB**
-
-- 📫 How to reach me **dgore7078@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/DipanshGore/dipansh-react-portfolio/blob/main/Dipansh%20Gore%20Resume.pdf](https://github.com/DipanshGore/dipansh-react-portfolio/blob/main/Dipansh%20Gore%20Resume.pdf)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/dipansh gore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipansh gore" height="30" width="40" /></a>
+<!-- Badges & Quick Links -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DipanshGore&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views" />
+  <a href="mailto:dgore7078@gmail.com"><img src="https://img.shields.io/badge/Email-dgore7078%40gmail.com-red?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/dipansh-gore"><img src="https://img.shields.io/badge/LinkedIn-Dipansh%20Gore-blue?style=flat&logo=linkedin"></a>
+  <a href="https://dipanshgore.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=flat&logo=google-chrome"></a>
+  <a href="https://github.com/DipanshGore?tab=followers"><img src="https://img.shields.io/github/followers/DipanshGore?label=Followers&style=flat&logo=github"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshgore&show_icons=true&locale=en&layout=compact" alt="dipanshgore" /></p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=6A11CB&center=true&vCenter=true&lines=Hey+👋,+I'm+Dipansh+Bhaskar+Gore;MERN+Stack+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshgore&show_icons=true&locale=en" alt="dipanshgore" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshgore&" alt="dipanshgore" /></p>
+### 🧑‍💻 About Me  
+
+- 🌍 Based in **Ghatanji, Maharashtra**  
+- 🎯 Currently exploring **Full-Stack Development, Cloud & Scalable Systems**  
+- 💡 Passionate about building **real-world projects** & solving **complex problems**  
+- 📫 Reach me: **dgore7078@gmail.com**  
+
+---
+
+### ⚡ Tech Arsenal  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,bootstrap,git,github,redux,firebase,postman,aws" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+🔹 **[Agri-Zone](https://github.com/DipanshGore/agrizone)** 🌱  
+Empowering farmers with **digital tools** using the MERN stack.  
+
+🔹 **[E-Commerce Website (First Collection)](https://github.com/DipanshGore/)** 🛒  
+Full-featured **React + Tailwind + Material UI** e-commerce app with auth, filters & smooth UI/UX.  
+
+🔹 **[Portfolio Website](https://dipanshgore.github.io/)** 🌐  
+Animated & responsive **React + Tailwind** portfolio with **Framer Motion** & **Email.js integration**.  
+
+---
+
+### 🎓 Education  
+
+- 🎓 **B.E. Computer Science & Engineering** | Sipna COET – *CGPA: 8.5/10*  
+- 📘 HSC – Shri Samarth Jr College of Science  
+- 📗 SSC – S.P.M High School  
+
+---
+
+### 💼 Experience  
+
+**Web Developer Intern** | JK Innovative Pvt Limited (Amravati)  
+*July 2022 – October 2022*  
+✔️ Built & enhanced **full-stack web apps** in a 3-member dev team  
+✔️ Crafted responsive **front-ends** with HTML, CSS, JavaScript  
+✔️ Integrated **REST APIs** & optimized database operations  
+
+---
+
+### 📜 Certifications  
+
+✅ **AWS Educate Cloud 101** – Amazon  
+✅ **MERN Stack Development** – JSpiders Hyderabad  
+✅ **WordPress Website Development** – Coursera  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dipanshgore&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshgore&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dipanshgore&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipanshgore&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+</p>
+
+---
+
+### 📌 Dynamic Widgets  
+
+📌 **Currently working on & Learning**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipanshgore&theme=react-dark&hide_border=true" width="95%" alt="activity graph"/>
+</p>
+
+📖 **Random Dev Quote**  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+### 🎮 Hobbies  
+
+Cricket 🏏 | Gaming 🎮 | Reading 📚 | Open Source ❤️  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+</p>
