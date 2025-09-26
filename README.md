@@ -11,7 +11,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6A11CB&center=true&vCenter=true&lines=Hey+👋,+I'm+Dipansh+Bhaskar+Gore;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=6A11CB&center=true&vCenter=true&lines=Hey+👋,+I'm+Dipansh+Gore;" alt="Typing SVG" />
 </p>
 
 ---
